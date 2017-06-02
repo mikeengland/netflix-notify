@@ -1,1 +1,1 @@
-# netflix-notify
+A small work-in-progress application for notifying users when a specified show/movie title is added to Netflix.
